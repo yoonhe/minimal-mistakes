@@ -6,7 +6,4 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import url('https://fonts.googleapis.com/css?family=Tomorrow&display=swap');
-
-.page {padding-right:0!important;}
 
